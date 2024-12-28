@@ -14,7 +14,7 @@
 ---
 
 ## Objective:
-The main objective of this project is to perform * Predictive Modelling using Linear Regression *. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.
+The main objective of this project is to perform *Predictive Modelling using Linear Regression*. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.
 
 ---
 
@@ -59,11 +59,11 @@ The main objective of this project is to perform * Predictive Modelling using Li
    - The strongest predictor of sales. The data revealed a robust positive correlation, indicating that higher TV spending directly drives sales growth.
 
 2. *Radio Advertising*:  
-   -Shows a notable correlation with sales, though not as strong as TV. Radio ads have a consistent, yet smaller, impact on sales, suggesting they play a 
+   - Shows a notable correlation with sales, though not as strong as TV. Radio ads have a consistent, yet smaller, impact on sales, suggesting they play a 
     supportive role in driving consumer interest.
 
 3. *Newspaper Advertising*:  
-   -The weakest link in this analysis. The correlation between newspaper spending and sales was minimal, pointing to diminishing returns or lower effectiveness of      print advertising in this dataset.
+   - The weakest link in this analysis. The correlation between newspaper spending and sales was minimal, pointing to diminishing returns or lower effectiveness of      print advertising in this dataset.
 
 4. *Overall Impact*:  
    - TV and Radio are more influential in driving sales compared to Newspaper, which could suggest a shift in marketing strategies towards more modern, dynamic 
