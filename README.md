@@ -14,7 +14,7 @@
 ---
 
 ## Objective:
-The main objective of this project is to perform *Predictive Modelling using Linear Regression *. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.
+The main objective of this project is to perform * Predictive Modelling using Linear Regression *. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.
 
 ---
 
