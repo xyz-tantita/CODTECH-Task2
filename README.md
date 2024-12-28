@@ -31,7 +31,7 @@ The main objective of this project is to perform *Predictive Modelling using Lin
     - **Mean Squared Error (MSE):** Measured the average squared difference between the predicted values and the actual values, helping to assess the accuracy of           the model.
     - **R-squared (R²):** Calculated to understand how well the model fits the data, indicating the proportion of variance in the target variable (sales) that the           model explains.
 
-4.*Visual Insights*
+4. *Visual Insights*
     - **Regression Lines:** Plotted regression lines to visually inspect how well the model fits the data and captures the relationship between advertising   
         spending and sales.
     - **Actual vs Predicted Sales:** Used scatter plots to compare the predicted sales against the actual sales, providing a visual representation of the model's           accuracy and helping to identify any discrepancies.
@@ -62,7 +62,7 @@ The main objective of this project is to perform *Predictive Modelling using Lin
    -Shows a notable correlation with sales, though not as strong as TV. Radio ads have a consistent, yet smaller, impact on sales, suggesting they play a 
     supportive role in driving consumer interest.
 
-3. *Newspaper Advertising *:  
+3. *Newspaper Advertising*:  
    -The weakest link in this analysis. The correlation between newspaper spending and sales was minimal, pointing to diminishing returns or lower effectiveness of      print advertising in this dataset.
 
 4. *Overall Impact*:  
@@ -71,7 +71,7 @@ The main objective of this project is to perform *Predictive Modelling using Lin
 
 ---
 
-##Visualization:
+## Visualization:
 ![TV-Sales](https://github.com/user-attachments/assets/59dcf583-13bd-485c-8a68-8a4eeac9faf6)
 ![Prediction](https://github.com/user-attachments/assets/e2663b3b-0283-415f-a57b-9b86c4fc84a8)
 
